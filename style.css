@@ -2,7 +2,9 @@
     background-image: url("background.jpg");
     background-size: 90vw 100vh;
 } */
-
+html{
+  overflow-x:hidden;
+}
 .navbar {
     /* position: fixed!important; */
     min-height: 50px;
