@@ -1,1 +1,1 @@
-# GradGateway-Placement-Management-System
+# GradGateway
